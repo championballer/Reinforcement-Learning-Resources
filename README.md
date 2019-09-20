@@ -21,3 +21,5 @@ RL Course by David Silver (DeepMind) :https://www.youtube.com/playlist?list=PLqY
 Advance Deep Learning (DeepMind): https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 
 Deep multi-agent reinforcement learning (University of Oxford): https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4
+
+https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos
