@@ -1,4 +1,4 @@
-# Reinforcement-Learning-World
+# Reinforcement Learning Resources
 Everything about Reinforcement Learning
 
 
