@@ -23,3 +23,5 @@ Advance Deep Learning (DeepMind): https://www.youtube.com/playlist?list=PLqYmG7h
 Deep multi-agent reinforcement learning (University of Oxford): https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4
 
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos
+
+Policy Gradient Algorithms: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
