@@ -25,3 +25,5 @@ Deep multi-agent reinforcement learning (University of Oxford): https://ora.ox.a
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos
 
 Policy Gradient Algorithms: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+
+Two-Headed A2C Network in PyTorch: https://www.datahubbs.com/two-headed-a2c-network-in-pytorch/
