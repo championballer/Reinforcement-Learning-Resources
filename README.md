@@ -27,3 +27,5 @@ https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos
 Policy Gradient Algorithms: https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 
 Two-Headed A2C Network in PyTorch: https://www.datahubbs.com/two-headed-a2c-network-in-pytorch/
+
+Notes on the Generalized Advantage Estimation Paper: https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/
