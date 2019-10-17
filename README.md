@@ -55,3 +55,5 @@ PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer
 An introduction to Policy Gradients with Cartpole and Doom: https://www.freecodecamp.org/news/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f/
 
 Coding Demos from the School of AI's Move37 Course: https://github.com/colinskow/move37
+
+A (Long) Peek into Reinforcement Learning: https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#combining-td-and-mc-learning
