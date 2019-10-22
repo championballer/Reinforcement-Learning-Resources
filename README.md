@@ -57,3 +57,5 @@ An introduction to Policy Gradients with Cartpole and Doom: https://www.freecode
 Coding Demos from the School of AI's Move37 Course: https://github.com/colinskow/move37
 
 A (Long) Peek into Reinforcement Learning: https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#combining-td-and-mc-learning
+
+Collaborating with Humans Requires Understanding Them: https://bair.berkeley.edu/blog/2019/10/21/coordination/
