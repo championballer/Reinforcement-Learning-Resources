@@ -59,3 +59,5 @@ Coding Demos from the School of AI's Move37 Course: https://github.com/colinskow
 A (Long) Peek into Reinforcement Learning: https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#combining-td-and-mc-learning
 
 Collaborating with Humans Requires Understanding Them: https://bair.berkeley.edu/blog/2019/10/21/coordination/
+
+Awesome DL/RL/SL in Quantitative Finance: https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance/blob/master/README.md
