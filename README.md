@@ -61,3 +61,5 @@ A (Long) Peek into Reinforcement Learning: https://lilianweng.github.io/lil-log/
 Collaborating with Humans Requires Understanding Them: https://bair.berkeley.edu/blog/2019/10/21/coordination/
 
 Awesome DL/RL/SL in Quantitative Finance: https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance/blob/master/README.md
+
+SLM Lab: https://kengz.gitbooks.io/slm-lab/content/
