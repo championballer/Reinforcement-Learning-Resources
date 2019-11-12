@@ -63,3 +63,5 @@ Collaborating with Humans Requires Understanding Them: https://bair.berkeley.edu
 Awesome DL/RL/SL in Quantitative Finance: https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance/blob/master/README.md
 
 SLM Lab: https://kengz.gitbooks.io/slm-lab/content/
+
+Distributional RL: https://mtomassoli.github.io/2017/12/08/distributional_rl/
