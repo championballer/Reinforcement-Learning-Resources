@@ -76,4 +76,6 @@ Deep Reinforcement Learning, Decision Making, and Control: https://vimeo.com/240
 
 Deep Reinforcement Learning Through Policy Optimization: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization
 
+Soft Actor-Critic Demystified: https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665
 
+TD3: Learning To Run With AI: https://towardsdatascience.com/td3-learning-to-run-with-ai-40dfc512f93
