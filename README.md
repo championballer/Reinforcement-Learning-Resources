@@ -65,3 +65,15 @@ Awesome DL/RL/SL in Quantitative Finance: https://github.com/georgezouq/awesome-
 SLM Lab: https://kengz.gitbooks.io/slm-lab/content/
 
 Distributional RL: https://mtomassoli.github.io/2017/12/08/distributional_rl/
+
+Deep Reinforcement Learning: Pong from Pixels: http://karpathy.github.io/2016/05/31/rl/
+
+Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow: https://github.com/dennybritz/reinforcement-learning
+
+Reinforcement Learning Coach by Intel AI Lab: https://github.com/NervanaSystems/coach
+
+Deep Reinforcement Learning, Decision Making, and Control: https://vimeo.com/240428644
+
+Deep Reinforcement Learning Through Policy Optimization: https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Deep-Reinforcement-Learning-Through-Policy-Optimization
+
+
