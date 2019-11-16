@@ -83,3 +83,5 @@ TD3: Learning To Run With AI: https://towardsdatascience.com/td3-learning-to-run
 OpenAI, Spinning Up in Deep RL: https://spinningup.openai.com/en/latest/user/introduction.html
 
 Human-Inspired Memory Patterns in Deep Learning: https://medium.com/intuitionmachine/human-inspired-memory-patterns-in-deep-learning-25ab5a254887
+
+CS234: Reinforcement Learning Winter 2019: http://web.stanford.edu/class/cs234/index.html
