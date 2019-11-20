@@ -85,3 +85,7 @@ OpenAI, Spinning Up in Deep RL: https://spinningup.openai.com/en/latest/user/int
 Human-Inspired Memory Patterns in Deep Learning: https://medium.com/intuitionmachine/human-inspired-memory-patterns-in-deep-learning-25ab5a254887
 
 CS234: Reinforcement Learning Winter 2019: http://web.stanford.edu/class/cs234/index.html
+
+Deep Reinforcement Learning paper: https://arxiv.org/abs/1810.06339
+
+Reinforcement Learning Applications paper: https://arxiv.org/abs/1908.06973
