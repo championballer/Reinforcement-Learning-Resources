@@ -89,3 +89,5 @@ CS234: Reinforcement Learning Winter 2019: http://web.stanford.edu/class/cs234/i
 Deep Reinforcement Learning paper: https://arxiv.org/abs/1810.06339
 
 Reinforcement Learning Applications paper: https://arxiv.org/abs/1908.06973
+
+Reinforcement Learning for Real Life: https://sites.google.com/view/RL4RealLife/home
