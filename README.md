@@ -95,3 +95,5 @@ Reinforcement Learning for Real Life: https://sites.google.com/view/RL4RealLife/
 Monte Carlo in Reinforcement Learning, the Easy Way: https://medium.com/@zsalloum/monte-carlo-in-reinforcement-learning-the-easy-way-564c53010511
 
 endtoendAI: https://www.endtoend.ai/
+
+Reinforcement Learning Summer SCOOL: https://rlss.inria.fr/
