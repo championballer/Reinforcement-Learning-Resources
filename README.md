@@ -93,3 +93,5 @@ Reinforcement Learning Applications paper: https://arxiv.org/abs/1908.06973
 Reinforcement Learning for Real Life: https://sites.google.com/view/RL4RealLife/home
 
 Monte Carlo in Reinforcement Learning, the Easy Way: https://medium.com/@zsalloum/monte-carlo-in-reinforcement-learning-the-easy-way-564c53010511
+
+endtoendAI: https://www.endtoend.ai/
