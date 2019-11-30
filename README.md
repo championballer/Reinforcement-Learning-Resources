@@ -97,3 +97,5 @@ Monte Carlo in Reinforcement Learning, the Easy Way: https://medium.com/@zsallou
 endtoendAI: https://www.endtoend.ai/
 
 Reinforcement Learning Summer SCOOL: https://rlss.inria.fr/
+
+CS885 Spring 2018 - Reinforcement Learning: https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/
