@@ -99,3 +99,7 @@ endtoendAI: https://www.endtoend.ai/
 Reinforcement Learning Summer SCOOL: https://rlss.inria.fr/
 
 CS885 Spring 2018 - Reinforcement Learning: https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/
+
+RL — Model-based Reinforcement Learning: https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323
+
+RL — LQR & iLQR Linear Quadratic Regulator: https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750
