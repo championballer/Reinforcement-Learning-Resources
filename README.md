@@ -103,3 +103,5 @@ CS885 Spring 2018 - Reinforcement Learning: https://cs.uwaterloo.ca/~ppoupart/te
 RL — Model-based Reinforcement Learning: https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323
 
 RL — LQR & iLQR Linear Quadratic Regulator: https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750
+
+Benchmarking Model-Based Reinforcement Learning: https://arxiv.org/abs/1907.02057
