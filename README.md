@@ -105,3 +105,7 @@ RL — Model-based Reinforcement Learning: https://medium.com/@jonathan_hui/rl-m
 RL — LQR & iLQR Linear Quadratic Regulator: https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750
 
 Benchmarking Model-Based Reinforcement Learning: https://arxiv.org/abs/1907.02057
+
+Reinforcement Learning Upside Down: Don't Predict Rewards - Just Map Them to Actions: https://www.youtube.com/watch?v=RrvC8YW0pT0&feature=youtu.be
+
+Training Agents using Upside-Down Reinforcement Learning: https://arxiv.org/abs/1912.02877
