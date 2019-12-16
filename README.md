@@ -1,6 +1,6 @@
 # Reinforcement Learning Resources
 
-This repository contains links to resources that can be utilised to learn more in the field of Reinforcement Learning. Please report any errors or dead links, that you find. Incase you find any other resouce that can be useful to others, please open a PR. Please star incase you this repository was helpful to you, so that others in need can also find it. 
+This repository contains links to resources that can be utilised to learn more in the field of Reinforcement Learning. Please report any errors or dead links, that you find. Incase you find any other resouce that can be useful to others, please open a PR. Please star incase you feel this repository was helpful to you, so that others in need can also find it. 
 
 ### Lecture series:
 
