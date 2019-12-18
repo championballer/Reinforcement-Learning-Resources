@@ -52,6 +52,7 @@ This repository contains links to resources that can be utilised to learn more i
 |RL — Model-based Reinforcement Learning| https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323|
 |RL — LQR & iLQR Linear Quadratic Regulator| https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750|
 |Reinforcement Learning Upside Down: Don't Predict Rewards - Just Map Them to Actions| https://www.youtube.com/watch?v=RrvC8YW0pT0&feature=youtu.be|
+| Jonathan Hui Series |https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530 | 
 
 ### Benchmark Implementations
 
