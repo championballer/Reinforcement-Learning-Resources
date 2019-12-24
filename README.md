@@ -53,6 +53,7 @@ This repository contains links to resources that can be utilised to learn more i
 |RL — LQR & iLQR Linear Quadratic Regulator| https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750|
 |Reinforcement Learning Upside Down: Don't Predict Rewards - Just Map Them to Actions| https://www.youtube.com/watch?v=RrvC8YW0pT0&feature=youtu.be|
 | Jonathan Hui Series |https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530 | 
+|Learning from Human Preferences |https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/ |
 
 ### Benchmark Implementations
 
